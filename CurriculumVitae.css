@@ -5,13 +5,12 @@ body{
 #conteudo{
     margin-left: 200px;
     margin-right: 200px;
-    background-color: rgb(202, 200, 200);
+    background-color: rgb(255, 255, 255);
     width: 1100px;
-    height: 1500px;
+    height: 1800px;
 }
 #pessoa{
     display: flex;
-    /* background-color: rgb(161, 230, 10); */
     width: 600px;
     height: 270px;
     margin-left: 20px;
@@ -38,7 +37,6 @@ body{
     display: flex;
     position: relative;
     top: -140px;
-    /* background-color: brown; */
     width: 1150px;
     height: 800px;
 }
@@ -75,6 +73,7 @@ body{
     height: 50px;
     top: 670px;
     right: 335px;
+    border-radius: 10px;
 }
 #img6{
     position: relative;
@@ -85,23 +84,17 @@ body{
 #img7{
     position: relative;
     height: 50px;
-    top: 1110px;
-    right: 434px;
-}
-#img8{
-    position: relative;
-    height: 50px;
     top: 970px;
-    right: 485px;
+    right: 434px;
+    border-radius: 10px;
 }
-#detalhes{
-    /* background-color: blueviolet; */
+#Textos{
     margin-top: -910px;
     height: 1151px;
 }
 #faceTitulo{
     position: relative;
-    top: 50px;
+    top: 51px;
     left: 95px;
 }
 #face{
@@ -111,11 +104,174 @@ body{
 }
 #instaTitulo{
     position: relative;
-    top: 72px;
+    top: 74px;
     left: 95px;
 }
 #insta{
     position: relative;
     top: 70px;
     left: 50px;
+}
+#messegTitulo{
+    position: relative;
+    top: 78px;
+    left: 95px;
+}
+#messeg{
+    position: relative;
+    top: 74px;
+    left: 50px;
+}
+#whatsTitulo{
+    position: relative;
+    top: 82px;
+    left: 95px;
+}
+#whats{
+    position: relative;
+    top: 81px;
+    left: 50px;
+}
+#linha{
+    position: relative;
+    height: 1799px;
+    width: 1px;
+    background-color: rgb(0, 0, 0);
+    left: 730px;
+    top: -1500px 
+}
+#worksTitulo{
+    position: relative;
+    top: 97px;
+    left: 95px;
+}
+#works{
+    position: relative;
+    top: 89px;
+    left: 50px;
+}
+#oculTitulo{
+    position: relative;
+    top: 110px;
+    left: 95px;
+}
+#oculus{
+    position: relative;
+    top: 96px;
+    left: 50px;
+}
+#MetaTitulo{
+    position: relative;
+    top: 125px;
+    left: 95px;
+}
+#Meta{
+    position: relative;
+    top: 120px;
+    left: 50px;
+}
+#right{
+    position: relative;
+    top: -3319px;
+    left: 731px;
+    height: 1799px;
+    width: 369px;
+}
+#titulo2{
+    font-size: 35px;
+    position: relative;
+    top: 25px;
+   left: 20px;
+}
+#dados{
+    position: relative;
+    top: 20px;
+    left: 20px;
+    color: rgb(215, 215, 215);
+}
+#titulo3{
+    font-size: 35px;
+    position: relative;
+    top: 125px;
+    left: 20px;
+}
+#linguas{
+    position: relative;
+    top: 120px;
+    left: 20px;
+    color: rgb(215, 215, 215);
+}
+#titulo4{
+    font-size: 35px;
+    position: relative;
+    top: 165px;
+    left: 20px;
+}
+#MainSK{
+    position: relative;
+    top: 160px;
+    left: 20px;
+    color: rgb(215, 215, 215);
+}
+#titulo5{
+    font-size: 35px;
+    position: relative;
+    top: 265px;
+    left: 20px;
+}
+#comentarios{
+    position: relative;
+    top: 265px;
+    left: 20px;
+}
+#autor1{
+    color: rgb(194, 194, 194);
+}
+#coment2{
+    position: relative;
+    top: 40px;
+}
+#autor2{
+    position: relative;
+    top: 40px;
+    color: rgb(194, 194, 194);
+}
+#coment3{
+    position: relative;
+    top: 80px;
+}
+#autor3{
+    position: relative;
+    top: 80px;
+    color: rgb(194, 194, 194);
+}
+#linkedin{
+    position: relative;
+    top: -2px;
+    left: 45px;
+    height: 15px;
+}
+#limit{
+    position: relative;
+    top: 100px;
+    height: 15px;
+    width: 200px;
+    left: 50px;
+}
+#education{
+    position: relative;
+    top: 120px;
+    left: 40px;
+    font-size: 35px;
+}
+#imiage{
+    position: relative;
+    top: 145px;
+    left: 40px;
+    height: 270px;
+    width: 655px;
+}
+#harvard{
+    position: relative;
+    height: 80px;
 }
